@@ -4,7 +4,7 @@
 SparseTSF is a novel, extremely lightweight model for Long-term Time Series Forecasting (LTSF). At the heart of SparseTSF lies the Cross-Period Sparse Forecasting technique, which simplifies the forecasting task by decoupling the periodicity and trend in time series data.
 
 ## Authors
-This work was developed by the Advanced Computing Architecture Team, School of Computer Science and Engineering, South China University of Technology; Peng Cheng Laboratory.
+This work was developed by the Advanced Computing Architecture Team, School of Computer Science and Engineering, South China University of Technology; Pengcheng Laboratory.
 
 The top three main contributors are:
 - Shengsheng Lin ([cslinshengsheng@mail.scut.edu.cn]())
