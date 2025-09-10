@@ -1,5 +1,5 @@
 # SparseTSF
-[ICML 2024 Oral] "[SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters](https://arxiv.org/pdf/2405.00946)". Please refer to [this repository](https://github.com/lss-1138/SparseTSF/) for the full code and details.
+[TPAMI 2025 & ICML 2024 Oral] "[SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters](https://arxiv.org/pdf/2405.00946)". Please refer to [this repository](https://github.com/lss-1138/SparseTSF/) for the full code and details.
 
 SparseTSF is a novel, extremely lightweight model for Long-term Time Series Forecasting (LTSF). At the heart of SparseTSF lies the Cross-Period Sparse Forecasting technique, which simplifies the forecasting task by decoupling the periodicity and trend in time series data.
 
